@@ -1,0 +1,13 @@
+{
+  "name": "Express-boilerplate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/santhoshsvkmm/Express-boilerplate.git",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "start":"node index.js"
+  }
+}
